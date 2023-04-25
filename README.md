@@ -13,3 +13,8 @@ QQ群=>578389871
 
 ## 协议
 GPL 3.0
+
+## 赞赏
+如果这个工具对你有帮助可以请我喝杯咖啡
+
+![image](https://user-images.githubusercontent.com/131583117/234217985-0b7083be-c73a-49aa-a5fb-97eaf71d8647.png)
